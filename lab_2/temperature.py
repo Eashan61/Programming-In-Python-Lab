@@ -7,4 +7,5 @@ if temp > 30:
     else:
             print("It's hot outside!")
 else:
+    
     print("It's not too hot outside!")
